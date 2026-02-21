@@ -1,0 +1,3 @@
+echo "Login feature details" >> notes.txt
+git add notes.txt
+git commit -m "add login notes"
