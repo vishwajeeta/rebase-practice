@@ -1,0 +1,5 @@
+echo "# Broken Repo" > README.md
+echo "Project ideas" > notes.txt
+echo "- Finish project" > todo.txt
+echo "" > config.txt
+echo "node_modules/" > .gitignore
