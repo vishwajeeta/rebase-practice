@@ -1,0 +1,3 @@
+echo "- Sleep forever" >> todo.txt
+git add todo.txt
+git commit -m "update todo"

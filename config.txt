@@ -1,5 +1,3 @@
-echo "# Broken Repo" > README.md
-echo "Project ideas" > notes.txt
-echo "- Finish project" > todo.txt
-echo "" > config.txt
-echo "node_modules/" > .gitignore
+echo "API_KEY=sk-123456789SECRETKEY" > config.txt
+git add config.txt
+git commit -m "add api key temporarily"
